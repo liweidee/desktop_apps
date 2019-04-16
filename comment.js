@@ -1,7 +1,7 @@
-(a, b) => {
+let add = (a, b) => {
 	return a + b;
 }
 
-(a, b) => {
+let sub = (a, b) => {
 	return a-b;
 }
